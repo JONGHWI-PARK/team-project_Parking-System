@@ -28,7 +28,7 @@
 <br>
 
 ## 3. 담당한 파트
-- 정기권 (CommutationTicket Class) : 📌 [코드 확인]()
+- 정기권 (CommutationTicket Class) : 📌 [코드 확인](https://github.com/JONGHWI-PARK/team-project_Parking-System/blob/master/src/parking_lot/CommutationTicket.java)
   - 회원 정보를 입력받으면 DB CommutationTicket 테이블에 데이터가 저장되도록 구현
   - DB에서 데이터를 가져와 size()를 활용하여 정기권 수량 조회 구현
   - 정규표현식을 사용하여 회원 정보의 유효성검사 진행
