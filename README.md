@@ -28,7 +28,7 @@
 <br>
 
 ## 3. 담당한 파트
-- 정기권 (CommutationTicket Class)
+- 정기권 (CommutationTicket Class) : 📌 [코드 확인]()
   - 회원 정보를 입력받으면 DB CommutationTicket 테이블에 데이터가 저장되도록 구현
   - DB에서 데이터를 가져와 size()를 활용하여 정기권 수량 조회 구현
   - 정규표현식을 사용하여 회원 정보의 유효성검사 진행
@@ -91,15 +91,7 @@
 
 <br>
 
-## 5. 핵심 기능
-
-<details>
-<summary><b>CommutationTicket(정기권) Class</b></summary>
-📌 [코드 확인]()
-</div>
-</details>
-
-## 6. 시연 영상
+## 5. 시연 영상
 
 ### ✔ 정기권 등록 + 결제
 ![](https://velog.velcdn.com/images/jack_whiteblack/post/1e741b66-0b1b-40f7-8e2f-d982575d26aa/image.gif)
